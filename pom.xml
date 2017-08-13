@@ -57,7 +57,7 @@
                     <verbose>true</verbose>
                     <images>
                         <image>
-                            <name>oscar/eureka-service</name>
+                            <name>oscar/cloud-config-server</name>
                             <build>
                                 <dockerFile>Dockerfile</dockerFile>
                                 <assembly>
